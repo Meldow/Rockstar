@@ -1,0 +1,24 @@
+Modulus takes Number and Divisor
+Modulus takes Number and Divisor
+While Number is as high as Divisor
+Put Number minus Divisor into Number
+
+Give back Number
+
+Listen to Num
+IsPrime is true
+PFactor is 2
+
+while PFactor is smaller than Num-1
+if Modulus taking Num, PFactor is 0
+IsPrime is false
+
+Build PFactor up
+Take it to the top
+
+
+if IsPrime 
+Shout "is indeed a prime"
+
+else 
+Shout "is not prime"
